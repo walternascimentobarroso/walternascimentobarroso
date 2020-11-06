@@ -33,7 +33,7 @@
 </details>
 
 <details open>
-<summary> zap &nbsp;Github Stats: </summary>
+<summary> ⚡ &nbsp;Github Stats: </summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walternascimentobarroso&show_icons=true&locale=en&layout=compact&theme=radical" alt="walternascimentobarroso" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walternascimentobarroso&show_icons=true&locale=en&theme=radical" alt="walternascimentobarroso" /></p>
