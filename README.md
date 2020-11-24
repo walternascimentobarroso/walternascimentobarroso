@@ -36,7 +36,14 @@
 <summary> ⚡ &nbsp;Github Stats: </summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walternascimentobarroso&show_icons=true&locale=en&layout=compact&theme=radical" alt="walternascimentobarroso" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walternascimentobarroso&show_icons=true&locale=en&theme=radical" alt="walternascimentobarroso" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=walternascimentobarroso&show_icons=true&locale=en&theme=radical" alt="walternascimentobarroso" /></p>
+</details>
+
+<details open>
+<summary> 🔭 &nbsp;Quote: </summary>
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
 </details>
 
 ***
