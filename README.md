@@ -36,9 +36,9 @@
 <summary> ⚡ &nbsp;Github Stats: </summary>
 
 <p align="left">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=walternascimentobarroso&show_icons=true&locale=en&layout=compact&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walternascimentobarroso&show_icons=true&locale=en&theme=radical"/>
+<a href="https://github.com/walternascimentobarroso">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=walternascimentobarroso&show_icons=true&locale=en&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=walternascimentobarroso&show_icons=true&locale=en&theme=radical"/>
 </a>
 </p>
 </details>
