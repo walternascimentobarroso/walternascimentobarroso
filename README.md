@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Walter Nascimento Barroso</h1>
 <h3 align="center">Passionate about technology</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=walternascimentobarroso/walternascimentobarroso)
-
 <details open>
 <summary> 🤝🏻 &nbsp;Connect with Me: </summary>
 
@@ -41,13 +39,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=walternascimentobarroso&show_icons=true&locale=en&theme=radical"/>
 </a>
 </p>
-</details>
-
-<details open>
-<summary> 🔭 &nbsp;Quote: </summary>
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
-
 </details>
 
 ***
